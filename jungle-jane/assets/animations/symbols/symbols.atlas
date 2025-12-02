@@ -1,4 +1,4 @@
-Symbol.webp
+symbols.webp
 size:2500,2500
 filter:Linear,Linear
 scale:0.5
@@ -281,7 +281,7 @@ rotate:90
 spark
 bounds:2335,4,48,45
 
-Symbol_2.webp
+symbols_2.webp
 size:2032,2032
 filter:Linear,Linear
 scale:0.5
